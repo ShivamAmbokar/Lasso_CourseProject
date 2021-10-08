@@ -1,7 +1,8 @@
 # Lasso_CourseProject
 CS101 Course Project
 This project was originally uploaded on Bodhitree and Google Drive
-
+The repository contains a video file (Csprjbetter-1.m4v) which is a demo of the working of the program ('Game'), which may also be accessed by following the Google Drive link given below.
+The README.docx is the original ReadMe file that was attached with the project
 The following is the text from the original ReadMe file, pasted as is, without formatting:-
 
 
@@ -31,3 +32,4 @@ Your score in any particular level will be visible in the top right corner. <br 
 The Exit Menu – After you enter ‘q’ you will be taken to the exit menu. You may click on the ‘X’ in the top right corner to view your net score and exit, or click anywhere to resume. <br />
 ENJOY! <br />
 
+THIS PROJECT WAS SUBMITTED ON THE 28TH OF FEBRUARY 2020 ON BODHITREE AT 11.58PM
