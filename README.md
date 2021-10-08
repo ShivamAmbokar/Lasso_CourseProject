@@ -1,9 +1,9 @@
 # Lasso_CourseProject
-CS101 Course Project
-This project was originally uploaded on Bodhitree and Google Drive
-The repository contains a video file (Csprjbetter-1.m4v) which is a demo of the working of the program ('Game'), which may also be accessed by following the Google Drive link given below.
-The README.docx is the original ReadMe file that was attached with the project
-The following is the text from the original ReadMe file, pasted as is, without formatting:-
+CS101 Course Project <br />
+This project was originally uploaded on Bodhitree and Google Drive <br />
+The repository contains a video file (Csprjbetter-1.m4v) which is a demo of the working of the program ('Game'), which may also be accessed by following the Google Drive link given below. <br />
+The README.docx is the original ReadMe file that was attached with the project <br />
+The following is the text from the original ReadMe file, pasted as is, without formatting:- <br /><br />
 
 
 README FILE <br />
